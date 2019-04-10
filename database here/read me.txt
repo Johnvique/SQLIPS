@@ -1,0 +1,3 @@
+create a database called forensic and import it , password:admin
+username:admin;
+good luck tomorrow , any edits yu may want to make you can do them in the hooks folder in the header-extras file
